@@ -1,3 +1,4 @@
+<img src="https://gpvc.arturio.dev/raid-bot">
 <em>
 <h1>raid-bot</h1>
 Script for raid chats by bots in telegram.
